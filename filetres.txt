@@ -1,1 +1,2 @@
-prueba de pull en git
+agregar cualquier cosa
+sesion de miercoles de git
